@@ -1,0 +1,20 @@
+.title {
+    text-align: center;
+}
+
+#simpsons_quotes {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quote {
+    margin-bottom: 40px;
+}
+
+.want-more-button {
+    text-align: center;
+    margin-top: 60px;
+}
